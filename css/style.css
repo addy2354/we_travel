@@ -17,9 +17,6 @@ body{
 .heading{
     font-family: 'Poppins', sans-serif;
     font-size: 10rem;
-    /* margin: auto; */
-    /* display: flex;
-    flex-direction: row; */
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -42,7 +39,6 @@ button{
     color: #a1a1a1;
     border: 2px solid #FFC815;
     transition: 0.2s;
-
 }
 
 button:hover{
@@ -68,7 +64,6 @@ a:hover{
 }
 
 #signup{
-    /* margin-left: 10px; */
     padding: 10px 20px;
     cursor: pointer;
 }
